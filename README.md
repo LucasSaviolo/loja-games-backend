@@ -57,7 +57,6 @@ src/
 
 As rotas seguem o padrão REST (/clientes, /jogos, /vendas)
 
-O front-end está disponível neste repositório: https://github.com/LucasSaviolo/loja-games-frontend
-
+O front-end está disponível neste repositório: [loja-games-frontend](https://github.com/LucasSaviolo/loja-games-frontend)
 
 ---
